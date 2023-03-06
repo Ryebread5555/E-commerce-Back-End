@@ -26,7 +26,7 @@ This is an back end application for a e-commerce clothing website. The applicati
 ![](./Develop/assets/e-commerce-backend-gif.gif)
 
 ## Video
-
+https://user-images.githubusercontent.com/115953057/223200590-d63f4980-25c0-45a8-b80f-3f8f628b0193.mp4
 
 ## Usage
 This app allows the user to view, add, edit, and delete categories, products, and tags.
