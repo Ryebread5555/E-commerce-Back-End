@@ -16,15 +16,17 @@
 This is an back end application for a e-commerce clothing website. The application uses express.js API and Sequelize that interacts with MYSQL database. Database is created using mySQL and models associated with the database. API routes are use to perform RESTful CRUD operations.
 
 ## Installation
-- This app requires Node.js, Express.js, and Sequelize. 
+- This app requires Node.js, Express.js, and Sequelize run ```npm install``` for dependencies. 
 - In order to connect to the database the user must run ```mysql -u root -p``` in the terminal and enter their password. 
-- In mysql, source schema.sql and USE ecommerce_db.
+- In mysql, source schema.sql.
 - Next seed the files ```node seeds/index.js```.
-- Finally run ```npm start``` to start the server!
+- Finally run ```nodemon server.js``` to start the server!
 
 ## Screenshot
+![](./Develop/assets/e-commerce-backend-gif.gif)
 
 ## Video
+
 
 ## Usage
 This app allows the user to view, add, edit, and delete categories, products, and tags.
@@ -33,9 +35,6 @@ This app allows the user to view, add, edit, and delete categories, products, an
 This project is covered under the MIT license. click the license button at the top to learn more.
 
 https://opensource.org/licenses/MIT
-
-## Contributing
-Ryan
 
 ## Questions
 Questions regarding this project?
@@ -48,4 +47,5 @@ Email: rypetty55@gmail.com
 - Express.js
 - Sequelize
 - MySql
+- Insomnia
 
